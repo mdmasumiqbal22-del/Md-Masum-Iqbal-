@@ -1,0 +1,7 @@
+{
+  "name": "PaySmart BD - Advanced HR & Payroll System",
+  "description": "A comprehensive, enterprise-grade HR and Payroll management solution tailored for Bangladeshi companies, featuring role-based access, automated salary calculations, attendance tracking, and AI-powered cost analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
